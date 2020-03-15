@@ -1,0 +1,23 @@
+{
+  "name": "react-and-firebase-for-beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./public/index.html"
+  },
+  "author": "altronicsCol",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-react": "^7.8.3",
+    "parcel-bundler": "^1.12.4",
+    "react-hot-loader": "^4.12.20"
+  }
+}
